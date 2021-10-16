@@ -3,7 +3,7 @@ package storage
 import (
 	"errors"
 	"fmt"
-	"github.com/Mordecaii/storage/internal/file"
+	"github.com/Mordecaii/go-test-storage/internal/file"
 	"github.com/google/uuid"
 )
 

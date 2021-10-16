@@ -1,4 +1,4 @@
-module github.com/Mordecaii/storage
+module github.com/Mordecaii/go-test-storage
 
 go 1.17
 

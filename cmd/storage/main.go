@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/Mordecaii/storage/internal/storage"
+	"github.com/Mordecaii/go-test-storage/internal/storage"
 	"log"
 )
 

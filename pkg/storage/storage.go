@@ -1,6 +1,6 @@
 package storage
 
-import "github.com/Mordecai/storage/internal/storage"
+import "github.com/Mordecaii/go-test-storage/internal/storage"
 
 func NewStorage() *storage.Storage {
 	return storage.NewStorage()
